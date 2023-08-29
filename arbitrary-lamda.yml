@@ -1,0 +1,26 @@
+# Sample YAML Configuration
+
+# User Information
+user:
+  name: John Doe
+  age: 30
+  email: johndoe@example.com
+
+# Application Settings
+app:
+  title: My Awesome App
+  version: 1.0.0
+  settings:
+    - option1: true
+    - option2: false
+    - option3: true
+
+# Database Configuration
+database:
+  host: localhost
+  port: 5432
+  username: admin
+  password: secret123
+  dbname: mydatabase
+
+
